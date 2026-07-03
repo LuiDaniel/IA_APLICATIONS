@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portafolio U3 — Web en React
 
 Página web minimalista para mostrar las 5 sesiones del portafolio final de
@@ -96,3 +97,6 @@ public/
   previews/                ← gráficos reales exportados de los notebooks 1 y 4
   downloads/               ← scripts de la Sesión 5 para ejecución local
 ```
+=======
+# IA_APLICATIONS
+>>>>>>> 153066aebe25dcf3ae1c02064c2dc5a23a442a50
