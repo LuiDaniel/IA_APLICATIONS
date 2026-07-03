@@ -10,13 +10,13 @@ export const equipo = {
   curso: "Introducción a las Ciencias de la Computación",
   unidad: "Unidad 3 · UPeU 2026-1",
   tituloPortafolio: "Aplicaciones de IA y Ciencia de Datos en Diversos Contextos",
-  nombreEquipo: "[Completar con el nombre del equipo]",
-  seccionAula: "[Completar]",
+  nombreEquipo: "Veloprs",
+  seccionAula: "1",
   fecha: "03 de julio de 2026",
   integrantes: [
     "Quecara Machaca, Luis Daniel",
     "Sullca Laura, Smith Jheremy",
-    "Mamani Dueñas, Jhosep",
+    "Mamani Dueñas, Jhosep Marcos",
     "Condori Flores, Bernabe Shantell",
   ],
 };
